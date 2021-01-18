@@ -124,5 +124,8 @@
       }
     }
   },
-  "defaultProject": "AgularP2"
+  "defaultProject": "AgularP2",
+  "cli": {
+    "analytics": false
+  }
 }
